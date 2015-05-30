@@ -11,14 +11,7 @@
 CS542 Design Patterns
 Spring 2014
 PROJECT 4 README FILE
-
-Due Date: Thursday, April 24, 2014
-Submission Date:  Thursday, April 24, 2014
-Grace Period Used This Project: 0 Days
-Grace Period Remaining: 0 Days
 Author(s): Chaitanya Bhasme
-e-mail(s): cbhasme1@binghamton.edu
-
 
 PURPOSE:
 
